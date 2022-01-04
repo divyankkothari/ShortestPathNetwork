@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShortestPathNetwork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShortestPathNetwork_jar</output-path>
+    <root id="archive" name="ShortestPathNetwork.jar">
+      <element id="module-output" name="ShortestPathNetwork" />
+    </root>
+  </artifact>
+</component>
